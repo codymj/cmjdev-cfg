@@ -1,5 +1,5 @@
 server:
-  host: 0.0.0.0
+  host: localhost
   port: 8330
   timeout:
     read: 5s
@@ -12,5 +12,5 @@ server:
 log:
   level: info
 redis:
-  host: localhost
+  host: 127.0.0.1
   port: 6379
