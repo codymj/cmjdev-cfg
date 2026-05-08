@@ -12,5 +12,5 @@ server:
 log:
   level: info
 redis:
-  host: 0.0.0.0
+  host: localhost
   port: 6379
